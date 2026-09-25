@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppKiller": {
+      "commandName": "Project",
+      "commandLineArgs": "-t 5 -a msedge.exe msedge"
+    }
+  }
+}
